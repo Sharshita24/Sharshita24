@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshita Saini</h1>
 <h3 align="center">Full-Stack Developer from India | Trying to turn Ideas into Scalable Realities</h3>
-<img align = “right” alt=“Coding” width= “400” src=“https://64.media.tumblr.com/1e59432e5fe2d7942df39fdd0223d294/9ec5a9ae5ba9f7db-ae/s1280x1920/8f45c6df3adc9f1a74b58a275b587982b5de8abc.gif” >
+<img align = “right” alt=“Coding” width= “400” src=“https://64.media.tumblr.com/132a18cdb7b6789faa533af403b1d878/289784d6fbcb7f73-77/s1280x1920/a0111c32d378556a2ffb21e01ada1fcf52b82842.gif” >
 
 - 🔭 I’m currently working on **a full-stack Invoice generating Application**
 
