@@ -1,5 +1,5 @@
-<img align = "center" alt="right" width="100%" src="https://picfiles.alphacoders.com/648/648329.jpeg">
 <h1 align="center">Hi 👋, I'm Harshita Saini</h1>
+<img align = "center" alt="right" width="100%" src="https://picfiles.alphacoders.com/648/648329.jpeg">
 <h3 align="center">Full-Stack Developer from India | Trying to turn Ideas into Scalable Realities</h3>
 
 
